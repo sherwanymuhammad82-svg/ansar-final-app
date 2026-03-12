@@ -1,0 +1,9 @@
+{
+  "quran": [
+    { "id": 1, "surah_number": 1, "name_ar": "الفاتحة", "name_ku": "فاتیحە" },
+    { "id": 2, "surah_number": 2, "name_ar": "البقرة", "name_ku": "بەقەرە" }
+  ],
+  "books": [
+    { "id": 1, "title_ar": "كتاب الأول", "title_ku": "کتێبی یەکەم" }
+  ]
+}
